@@ -1,9 +1,9 @@
 # App is Created on the Commercial Static.
 
-1.Created by javascript library React Js
-2.Based on the commercial web.
-3.Using json and rendering on the page .
-4.How we are using JSON and importing in the main file.
+Created by javascript library React Js.\
+Based on the commercial web.\
+Using json and rendering on the page .\
+How we are using JSON and importing in the main file.
 
 # Getting Started with Create React App
 
