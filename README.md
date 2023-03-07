@@ -5,6 +5,8 @@ Based on the commercial web.\
 Using json and rendering on the page .\
 How we are using JSON and importing in the main file.
 
+<img src="./Project pic.png" width="100%" height="50%" >
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
